@@ -1,4 +1,4 @@
-This is a test repo
+This line is changed in the bug branch.
 This line is added to test a new branch.
 Third line.
 Fourth line added back.
